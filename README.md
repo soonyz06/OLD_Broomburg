@@ -1,8 +1,8 @@
 #PS Entire thing scrapped and redone in new repo.
 
-List of all [commands](Broomburg/commands.txt), uses a tkinter interface(ew).
-Raw: able to pull live price and fundamental data via yahooquerry and news via RSS feeds.
-Processed: relative valuation(factors), autopopulate data necessary for dcf onto xlsx file, basic vol calculations, bad attempts at MATCH interface for screening and shell interface. Prob missed some stuff.
+List of all [commands](Broomburg/commands.txt), uses a tkinter interface (ew).  
+Raw: able to pull live price and fundamental data via yahooquerry and news via RSS feeds.  
+Processed: relative valuation (factors), auto populate data necessary for dcf onto xlsx file, basic vol calculations, bad attempts at MATCH interface for screening and shell interface. Prob missed some stuff.  
 
 # EDA
 Very, very small sample size to speed up run time of tests.
