@@ -1,7 +1,11 @@
+List of all [commands](Broomburg/commands.txt), uses a tkinter interface(ew).
+Raw: able to pull live price and fundamental data via yahooquerry and news via RSS feeds.
+Processed: relative valuation(factors), autopopulate data necessary for dcf onto xlsx file, basic vol calculations, bad attempts at MATCH interface for screening and shell interface.
+
+# EDA
 Very, very small sample size to speed up run time of tests.
 Reason is this is just a proof of concept, not meant to be statistically significant. 
 
-# EDA
 HML3
 ![HML3](Broomburg/data/output/eda/num_HML_3.png)
 
