@@ -1,0 +1,28 @@
+Current
+- Factor Model
+- Factor Risk Model + Performance Attribution
+
+Backend
+- Thread manager ~ terminate
+
+Frontend
+- Scroll
+- React
+
+Features
+- Add heatlist (by value) and short sales and pre to screener
+- Watchlist
+- change xlsx save format
+- redo filter_tickers
+- autocomplete
+- Custom divisor, freq ???
+- other yahooquerry modules
+- Alt data
+- Custom cmd
+- Import xlsx
+- Charts
+- EDA
+- Screener
+- patents
+- news model 
+- GOOGL, META, DUOL, MTCH, Matlab
