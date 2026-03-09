@@ -6,7 +6,7 @@ List of all [commands](Broomburg/commands.txt)
 - Processed: relative valuation (factors), auto populate data necessary for dcf onto xlsx file, basic vol calculations, bad attempts at MATCH interface for screening and shell interface. Prob missed some stuff.  
 
 # EDA
-Very, very small sample size to speed up run time of tests.
+#PS Very, very small sample size to speed up run time of tests.
 Reason is this is just a proof of concept, not meant to be statistically significant. 
 
 HML3
